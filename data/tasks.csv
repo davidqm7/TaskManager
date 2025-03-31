@@ -1,0 +1,6 @@
+id,createdOn,title,description,dueDate,status
+1,2023-10-08,Review Curriculum, check content for spelling and grammar, 2023-10-10,TODO
+2,2023-10-03,Water plants, water the indoor house plants, 2023-10-08,COMPLETED
+3,2023-09-08, Walk Dogs, take dogs for walks,2023-09-27,COMPLETED
+4,2023-09-20,Grocery Shopping, finish weekly shopping,2023-09-27,COMPLETED
+5,2023-10-20,Vacation Planning, plan vacation for Brazil,2023-10-27,IN_PROGRESS
